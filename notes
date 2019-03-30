@@ -1,0 +1,14 @@
+python ./server.py localhost 8090  #sets up the server on one of the shells
+
+(on another shell)
+telnet localhost 8090   #connects to this server being hosted
+
+create a server with a few basic functions
+keep track of the amount of users
+parse messages from the user
+
+server messaging protocal:
+in book
+
+
+
